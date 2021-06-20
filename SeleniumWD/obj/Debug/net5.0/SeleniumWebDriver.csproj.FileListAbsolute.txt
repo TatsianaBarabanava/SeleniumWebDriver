@@ -1,0 +1,5 @@
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net5.0\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net5.0\SeleniumWebDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net5.0\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net5.0\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net5.0\SeleniumWebDriver.csproj.CoreCompileInputs.cache

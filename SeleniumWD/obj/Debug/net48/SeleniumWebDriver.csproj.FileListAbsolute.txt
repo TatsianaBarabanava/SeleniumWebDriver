@@ -1,0 +1,72 @@
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.pdb

@@ -1,0 +1,346 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "NUnit/3.13.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
+      "NUnit.ConsoleRunner/3.12.0": {
+        "type": "package"
+      },
+      "NUnit3TestAdapter/4.0.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "Selenium.Chrome.WebDriver/85.0.0": {
+        "type": "package",
+        "build": {
+          "build/Selenium.Chrome.WebDriver.targets": {}
+        }
+      },
+      "Selenium.Support/3.141.0": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "3.141.0"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net45/WebDriver.Support.dll": {}
+        },
+        "runtime": {
+          "lib/net45/WebDriver.Support.dll": {}
+        }
+      },
+      "Selenium.WebDriver/3.141.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net45/WebDriver.dll": {}
+        },
+        "runtime": {
+          "lib/net45/WebDriver.dll": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/91.0.4472.10100": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
+        }
+      },
+      "Selenium.WebDriver.GeckoDriver.Win64/0.29.1": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.GeckoDriver.Win64.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NUnit/3.13.2": {
+      "sha512": "u+fz/lXyR4vlamySNAEMrXvh+GhAQiB6/aVZtU5WjivR5zF26Ui0tfteDtWqT90k9D8y6g8rFKYQC97Z7d195w==",
+      "type": "package",
+      "path": "nunit/3.13.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGES.md",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "build/NUnit.props",
+        "icon.png",
+        "lib/net35/nunit.framework.dll",
+        "lib/net35/nunit.framework.xml",
+        "lib/net40/nunit.framework.dll",
+        "lib/net40/nunit.framework.xml",
+        "lib/net45/nunit.framework.dll",
+        "lib/net45/nunit.framework.xml",
+        "lib/netstandard2.0/nunit.framework.dll",
+        "lib/netstandard2.0/nunit.framework.xml",
+        "nunit.3.13.2.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    },
+    "NUnit.ConsoleRunner/3.12.0": {
+      "sha512": "ZUtI8leU9ozCjLy4ZZ2X6ClU0hxfQtb95VOdmMA4SxIUvf62rIPxoHXS+jghvo5QxgRihGGcEp8xT3vCfgDdsA==",
+      "type": "package",
+      "path": "nunit.consolerunner/3.12.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGES.txt",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "images/nunit_256.png",
+        "nunit.consolerunner.3.12.0.nupkg.sha512",
+        "nunit.consolerunner.nuspec",
+        "tools/agents/net20/nunit-agent-x86.exe",
+        "tools/agents/net20/nunit-agent-x86.exe.config",
+        "tools/agents/net20/nunit-agent.exe",
+        "tools/agents/net20/nunit-agent.exe.config",
+        "tools/agents/net20/nunit.agent.addins",
+        "tools/agents/net20/nunit.engine.api.dll",
+        "tools/agents/net20/nunit.engine.api.xml",
+        "tools/agents/net20/nunit.engine.core.dll",
+        "tools/agents/net20/testcentric.engine.metadata.dll",
+        "tools/agents/net40/nunit-agent-x86.exe",
+        "tools/agents/net40/nunit-agent-x86.exe.config",
+        "tools/agents/net40/nunit-agent.exe",
+        "tools/agents/net40/nunit-agent.exe.config",
+        "tools/agents/net40/nunit.agent.addins",
+        "tools/agents/net40/nunit.engine.api.dll",
+        "tools/agents/net40/nunit.engine.api.xml",
+        "tools/agents/net40/nunit.engine.core.dll",
+        "tools/agents/net40/testcentric.engine.metadata.dll",
+        "tools/nunit.console.nuget.addins",
+        "tools/nunit.engine.api.dll",
+        "tools/nunit.engine.api.xml",
+        "tools/nunit.engine.core.dll",
+        "tools/nunit.engine.dll",
+        "tools/nunit3-console.exe",
+        "tools/nunit3-console.exe.config",
+        "tools/testcentric.engine.metadata.dll"
+      ]
+    },
+    "NUnit3TestAdapter/4.0.0": {
+      "sha512": "5gCkytgQWL93M5s9Rnl4CfSUhn95VsuMVLYjmZe8K7dNRF7kzrBMPsBTyLNCga5qLW7RM/o591J+HVrV1QMaVQ==",
+      "type": "package",
+      "path": "nunit3testadapter/4.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net35/NUnit3.TestAdapter.dll",
+        "build/net35/NUnit3.TestAdapter.pdb",
+        "build/net35/NUnit3TestAdapter.props",
+        "build/net35/nunit.engine.api.dll",
+        "build/net35/nunit.engine.core.dll",
+        "build/net35/nunit.engine.dll",
+        "build/net35/testcentric.engine.metadata.dll",
+        "build/netcoreapp2.1/NUnit3.TestAdapter.dll",
+        "build/netcoreapp2.1/NUnit3.TestAdapter.pdb",
+        "build/netcoreapp2.1/NUnit3TestAdapter.props",
+        "build/netcoreapp2.1/nunit.engine.api.dll",
+        "build/netcoreapp2.1/nunit.engine.core.dll",
+        "build/netcoreapp2.1/nunit.engine.dll",
+        "build/netcoreapp2.1/testcentric.engine.metadata.dll",
+        "nunit3testadapter.4.0.0.nupkg.sha512",
+        "nunit3testadapter.nuspec"
+      ]
+    },
+    "Selenium.Chrome.WebDriver/85.0.0": {
+      "sha512": "wRg7it2bBMyYtOsarTy0bWtS2fCZI08KGTef2kH381DYpGP+wX8j6f/7ABv1nmrUj5CCVmTeDeYeXS5g00JXSw==",
+      "type": "package",
+      "path": "selenium.chrome.webdriver/85.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Selenium.Chrome.WebDriver.targets",
+        "driver/chromedriver.exe",
+        "selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+        "selenium.chrome.webdriver.nuspec"
+      ]
+    },
+    "Selenium.Support/3.141.0": {
+      "sha512": "F4sxMCXGyqWtbw5qsniJRgza2UsBnslHwFgNA2p7hPxvJhqg73lyXu/ZscJ7FSfRvq3eJrosysv92+4sZ3vWsg==",
+      "type": "package",
+      "path": "selenium.support/3.141.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/WebDriver.Support.dll",
+        "lib/net35/WebDriver.Support.xml",
+        "lib/net40/WebDriver.Support.dll",
+        "lib/net40/WebDriver.Support.xml",
+        "lib/net45/WebDriver.Support.dll",
+        "lib/net45/WebDriver.Support.xml",
+        "lib/netstandard2.0/WebDriver.Support.dll",
+        "lib/netstandard2.0/WebDriver.Support.xml",
+        "selenium.support.3.141.0.nupkg.sha512",
+        "selenium.support.nuspec"
+      ]
+    },
+    "Selenium.WebDriver/3.141.0": {
+      "sha512": "wPqzXO3f79DzqauTZSzLMKiaBCN0Z2Mv7KvWP+hnV6EL88zh/pJJnFtdIR1X5wa3hsTOpF/bBJs45rz7kArsiA==",
+      "type": "package",
+      "path": "selenium.webdriver/3.141.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/WebDriver.dll",
+        "lib/net35/WebDriver.xml",
+        "lib/net40/WebDriver.dll",
+        "lib/net40/WebDriver.xml",
+        "lib/net45/WebDriver.dll",
+        "lib/net45/WebDriver.xml",
+        "lib/netstandard2.0/WebDriver.dll",
+        "lib/netstandard2.0/WebDriver.xml",
+        "selenium.webdriver.3.141.0.nupkg.sha512",
+        "selenium.webdriver.nuspec"
+      ]
+    },
+    "Selenium.WebDriver.ChromeDriver/91.0.4472.10100": {
+      "sha512": "RalhItuJ6BZdD9HHVUHdpgDP/NQAUrr1yEAHWet+Ww33wbcuei0A2sF4+9duKaLQuZO3lcid7pKe2+km3sOGBQ==",
+      "type": "package",
+      "path": "selenium.webdriver.chromedriver/91.0.4472.10100",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/DefinePropertiesChromeDriver.targets",
+        "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/chromedriver",
+        "driver/mac64/chromedriver",
+        "driver/win32/chromedriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.chromedriver.91.0.4472.10100.nupkg.sha512",
+        "selenium.webdriver.chromedriver.nuspec"
+      ]
+    },
+    "Selenium.WebDriver.GeckoDriver.Win64/0.29.1": {
+      "sha512": "61DbNvjg8GQf9/1O7mpZEg3ulyYQFZE63UhFqa7aoW3swwBteRPHfdGOWdWFs+bLPCtei+bLALMG3T6A2KIn+g==",
+      "type": "package",
+      "path": "selenium.webdriver.geckodriver.win64/0.29.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/DefinePropertiesGeckoDriver.Win64.targets",
+        "build/Selenium.WebDriver.GeckoDriver.Win64.targets",
+        "driver/geckodriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.geckodriver.win64.0.29.1.nupkg.sha512",
+        "selenium.webdriver.geckodriver.win64.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "NUnit >= 3.13.2",
+      "NUnit.ConsoleRunner >= 3.12.0",
+      "NUnit3TestAdapter >= 4.0.0",
+      "Selenium.Chrome.WebDriver >= 85.0.0",
+      "Selenium.Support >= 3.141.0",
+      "Selenium.WebDriver >= 3.141.0",
+      "Selenium.WebDriver.ChromeDriver >= 91.0.4472.10100",
+      "Selenium.WebDriver.GeckoDriver.Win64 >= 0.29.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Tatsiana_Barabanava\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWD\\SeleniumWebDriver.csproj",
+      "projectName": "SeleniumWebDriver",
+      "projectPath": "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWD\\SeleniumWebDriver.csproj",
+      "packagesPath": "C:\\Users\\Tatsiana_Barabanava\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tatsiana_Barabanava\\source\\repos\\SeleniumWD\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Tatsiana_Barabanava\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "dependencies": {
+          "NUnit": {
+            "target": "Package",
+            "version": "[3.13.2, )"
+          },
+          "NUnit.ConsoleRunner": {
+            "target": "Package",
+            "version": "[3.12.0, )"
+          },
+          "NUnit3TestAdapter": {
+            "target": "Package",
+            "version": "[4.0.0, )"
+          },
+          "Selenium.Chrome.WebDriver": {
+            "target": "Package",
+            "version": "[85.0.0, )"
+          },
+          "Selenium.Support": {
+            "target": "Package",
+            "version": "[3.141.0, )"
+          },
+          "Selenium.WebDriver": {
+            "target": "Package",
+            "version": "[3.141.0, )"
+          },
+          "Selenium.WebDriver.ChromeDriver": {
+            "target": "Package",
+            "version": "[91.0.4472.10100, )"
+          },
+          "Selenium.WebDriver.GeckoDriver.Win64": {
+            "target": "Package",
+            "version": "[0.29.1, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

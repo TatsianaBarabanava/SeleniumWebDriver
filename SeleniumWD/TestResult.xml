@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="4" result="Passed" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="8" engine-version="3.12.0.0" clr-version="4.0.30319.42000" start-time="2021-06-17 06:43:12Z" end-time="2021-06-17 06:44:19Z" duration="67.060405">
+  <command-line><![CDATA[nunit3-console  SeleniumWebDriver.dll]]></command-line>
+  <test-suite type="Assembly" id="1-1008" name="SeleniumWebDriver.dll" fullname="C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\SeleniumWebDriver.dll" runstate="Runnable" testcasecount="4" result="Passed" start-time="2021-06-17T06:43:13.3640455Z" end-time="2021-06-17T06:44:19.7168357Z" duration="66.351640" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="8">
+    <environment framework-version="3.13.2.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.18363.0" platform="Win32NT" cwd="C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48" machine-name="EPBYMINW0A48" user="Tatsiana_Barabanava" user-domain="MINSK" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.8" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="TargetRuntimeFramework" value="net-4.0" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="14556" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="1-1009" name="SeleniumWebDriver" fullname="SeleniumWebDriver" runstate="Runnable" testcasecount="4" result="Passed" start-time="2021-06-17T06:43:13.3829949Z" end-time="2021-06-17T06:44:19.7168357Z" duration="66.333840" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="8">
+      <test-suite type="TestFixture" id="1-1000" name="TestDraftFolder" fullname="SeleniumWebDriver.TestDraftFolder" classname="SeleniumWebDriver.TestDraftFolder" runstate="Runnable" testcasecount="1" result="Passed" start-time="2021-06-17T06:43:13.3859884Z" end-time="2021-06-17T06:43:31.7598570Z" duration="18.373340" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+        <test-case id="1-1001" name="DraftContent" fullname="SeleniumWebDriver.TestDraftFolder.DraftContent" methodname="DraftContent" classname="SeleniumWebDriver.TestDraftFolder" runstate="Runnable" seed="2145011751" result="Passed" start-time="2021-06-17T06:43:13.3919718Z" end-time="2021-06-17T06:43:31.7548690Z" duration="18.363827" asserts="3" />
+      </test-suite>
+      <test-suite type="TestFixture" id="1-1002" name="TestLogin" fullname="SeleniumWebDriver.TestLogin" classname="SeleniumWebDriver.TestLogin" runstate="Runnable" testcasecount="1" result="Passed" start-time="2021-06-17T06:43:31.7618517Z" end-time="2021-06-17T06:43:43.4245365Z" duration="11.662609" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <test-case id="1-1003" name="Login" fullname="SeleniumWebDriver.TestLogin.Login" methodname="Login" classname="SeleniumWebDriver.TestLogin" runstate="Runnable" seed="1080619080" result="Passed" start-time="2021-06-17T06:43:31.7618517Z" end-time="2021-06-17T06:43:43.4245365Z" duration="11.662457" asserts="1" />
+      </test-suite>
+      <test-suite type="TestFixture" id="1-1004" name="TestSendEmail" fullname="SeleniumWebDriver.TestSendEmail" classname="SeleniumWebDriver.TestSendEmail" runstate="Runnable" testcasecount="1" result="Passed" start-time="2021-06-17T06:43:43.4245365Z" end-time="2021-06-17T06:44:00.4167904Z" duration="16.992171" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <test-case id="1-1005" name="SendEmail" fullname="SeleniumWebDriver.TestSendEmail.SendEmail" methodname="SendEmail" classname="SeleniumWebDriver.TestSendEmail" runstate="Runnable" seed="1702250046" result="Passed" start-time="2021-06-17T06:43:43.4245365Z" end-time="2021-06-17T06:44:00.4167904Z" duration="16.991978" asserts="1" />
+      </test-suite>
+      <test-suite type="TestFixture" id="1-1006" name="TestSendFolder" fullname="SeleniumWebDriver.TestSendFolder" classname="SeleniumWebDriver.TestSendFolder" runstate="Runnable" testcasecount="1" result="Passed" start-time="2021-06-17T06:44:00.4167904Z" end-time="2021-06-17T06:44:19.7168357Z" duration="19.300037" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+        <test-case id="1-1007" name="SendFolder" fullname="SeleniumWebDriver.TestSendFolder.SendFolder" methodname="SendFolder" classname="SeleniumWebDriver.TestSendFolder" runstate="Runnable" seed="575625904" result="Passed" start-time="2021-06-17T06:44:00.4167904Z" end-time="2021-06-17T06:44:19.7168357Z" duration="19.299831" asserts="3" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
